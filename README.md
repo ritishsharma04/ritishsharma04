@@ -23,7 +23,7 @@ Hi i am Ritish Sharma currently i am pursuing Bachler's of Enginnering from Chit
  Ask me anything related to MERN stack and related technologies  
   
 
-⚡ Fun fact: I keep night shift swithed on at all times   
+Fun fact: I keep night shift swithed on at all times   
 
 
 </td>
