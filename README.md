@@ -12,8 +12,7 @@ Hi i am Ritish Sharma currently i am pursuing Bachler's of Enginnering from Chit
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
  I’m currently learning MERN STACK   
   
@@ -27,17 +26,14 @@ Hi i am Ritish Sharma currently i am pursuing Bachler's of Enginnering from Chit
 ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</td>
+</tr></table>  
 
 <br/>  
 
 
 ## Languages and Tools  
-<div align="center">  
+<div align="left">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -53,21 +49,8 @@ Hi i am Ritish Sharma currently i am pursuing Bachler's of Enginnering from Chit
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritishsharma04&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
 
   
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=ritishsharma04&&style=flat-square)  
